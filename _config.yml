@@ -1,8 +1,8 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Gregory Pozo
+email: gregpozo24@gmail.com
+url: https://kurosannin.github.io
+description: "Pagina web de Gregory Pozo, dedicada a mostrar mis trabajos como ingeniero y maker que soy."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -15,31 +15,32 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Ing. Gregory Pozo
+  location: Localización
+  social: En la Web
+  credits: Creditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/KuroSannin
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/darkhomiez
+  - title: medium
+    url: https://medium.com/@gregpozo
+  - title: instagram
+    url: https://instagram.com/kurosannin/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/kurosannin
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Vivo en un maizal
+  - line: en Villa Mella, Santo Domingo,
+  - line: República Dominicana.
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Esta página web fue creada gracias a <a href="http://github.com">Github</a> y a <a href="https://github.com/jeromelachaud"> Jerome Lachaud</a>.'
 
 # Build settings
 markdown: kramdown
