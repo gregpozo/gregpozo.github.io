@@ -2,7 +2,7 @@
 layout: default
 title: Proyecto 2
 date: 2014-07-17
-img: tribin 1.png
+img: CNH 1.png
 alt: image-alt
 project-date: Julio 2014
 client: INTEC
