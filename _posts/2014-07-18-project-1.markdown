@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 1
-date: 2014-07-18
+title: Tribin
+date: 2015-01-18
 img: tribin 1.png
 alt: image-alt
 project-date: Enero 2015
