@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Enero 2015
 client: INTEC
 category: Desarrollo de sistemas inteligentes
-description: Zafacón inteligente que, mediante sensores y algoritmos, clasifica la basura de forma automática entre metálca, papel/cartón y orgánica. En este <a href="https://youtu.be/hMM2_aEgnyQ">video</a> se puede ver en detalle el proceso de diseño, construcción y desarrollo del zafacón. 
+description: Zafacón inteligente que, mediante sensores y algoritmos, clasifica la basura de forma automática entre metálica, papel/cartón y orgánica. En este <a href="https://youtu.be/hMM2_aEgnyQ">video</a> se puede ver en detalle el proceso de diseño, construcción y desarrollo del zafacón. 
 
 ---
