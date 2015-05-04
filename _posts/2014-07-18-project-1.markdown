@@ -11,7 +11,6 @@ description: Zafacón inteligente que, mediante sensores y algoritmos, clasifica
 - Metálica.
 - Papel/cartón.
 - Orgánica.
-
 En este <a href="https://youtu.be/hMM2_aEgnyQ">video</a> se puede ver en detalle el proceso de diseño, construcción y desarrollo del zafacón. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
 ---
