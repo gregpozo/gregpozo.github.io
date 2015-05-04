@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Proyecto 2
+modal-id: 2
 date: 2014-07-17
 img: CNH 1.png
 alt: image-alt
