@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Enero 2015
 client: INTEC
 category: Desarrollo de sistemas inteligentes
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://youtu.be/hMM2_aEgnyQ">video</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Zafacón inteligente que, mediante sensores y algoritmos, clasifica la basura de manera automatica en tres tipos: metálica, papel/cartón y orgánica. The icon above is part of a free icon set by <a href="https://youtu.be/hMM2_aEgnyQ">video</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
 ---
