@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Julio 2014
 client: INTEC
 category: Automatización de procesos
-description: Simulación de sistema de distribución de botellas industrial utilizando neumática, hidráulica y automatización de procesos en base a PLC. Hecho en conjunto con el Ingeniero. Leopoldo Gómez y Juan Sosa. En este <a href="https://www.youtube.com/watch?v=2qyb6Q6sjqU&spfreload=10">video</a> se ve mas a fondo el desarrollo y explicación del proyecto.
+description: Simulación de sistema de distribución de botellas industrial utilizando neumática, hidráulica y automatización de procesos en base a PLC. Hecho en conjunto con el Ingeniero Leopoldo Gómez y Juan Sosa. En este <a href="https://www.youtube.com/watch?v=2qyb6Q6sjqU&spfreload=10">video</a> se ve mas a fondo el desarrollo y explicación del proyecto.
 
 ---
