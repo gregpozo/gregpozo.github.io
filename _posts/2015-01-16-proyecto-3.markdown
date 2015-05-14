@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Enero 2015
 client: INTEC
 category: Software
-description: Sistema experto creado con la finalidad de guiar al usuario durante un proceso de diseño para ensamble o DFA. En este <a href="https://www.youtube.com/watch?v=wkV6kprsdd0&spfreload=10">video</a> se ve mas a fondo el desarrollo y explicación del proyecto.
+description: Sistema experto creado con la finalidad de guiar al usuario durante un proceso de diseño para ensamble o DFA(Design For Assembly). En este <a href="https://www.youtube.com/watch?v=wkV6kprsdd0&spfreload=10">video</a> se ve mas a fondo el desarrollo y explicación del proyecto. || Expert system created to guide the user through a design process for an assembly, known in engineering as Design For Assembly. In this <a href="https://www.youtube.com/watch?v=wkV6kprsdd0&spfreload=10">video</a> you can see the further development and explanation of the project.
 
 ---
