@@ -5,7 +5,7 @@ date: 2014-07-17
 img: CNH 1.png
 alt: image-alt
 project-date: Julio 2014
-client: INTEC
+client: INTEC - Circuitos Neumáticos e Hidráulicos
 category: Automatización de procesos
 description: Simulación de sistema de distribución de botellas industrial utilizando neumática, hidráulica y automatización de procesos en base a PLC. Hecho en conjunto con el Ingeniero Leopoldo Gómez y Juan Sosa. En este <a href="https://www.youtube.com/watch?v=2qyb6Q6sjqU&spfreload=10">video</a> se ve mas a fondo el desarrollo y explicación del proyecto. || Simulation of an industrial bottle distribution system using pneumatics, hydraulics and process automation based on PLC. Done in conjunction with Engineer Leopoldo Gomez and Juan Sosa. In this <a href="https://www.youtube.com/watch?v=2qyb6Q6sjqU&spfreload=10">video</a> you can see the further development and explanation of the project.
 
