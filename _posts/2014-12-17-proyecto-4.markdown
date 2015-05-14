@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Diciembre 2014
 client: INTEC - Sistemas para Ensamble Automatizado
 category: Mecanismos innovadores
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Alimentador creado con la balanceada combinacion de un alimentador tipo vibratorio, y otro de tipo reciprocante, con la finalidad de poder seleccionar un item de un grupo de basura acumulada. En este <a href="https://www.youtube.com/watch?v=RrWNR5by-DQ&spfreload=10">video</a> se ve mas a fondo el desarrollo y explicación del proyecto. || Feeder created with a balanced combination of a vibratory feeder type , and a reciprocating type , in order to be able to select an item from a group of accumulated garbage. In this <a href="https://www.youtube.com/watch?v=RrWNR5by-DQ&spfreload=10">video</a> you can see the whole process and a little background.
 
 ---
