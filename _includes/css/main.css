@@ -130,6 +130,13 @@ header .intro-text .skills {
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
+    
+    .navbar-brand-centered {
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    background-image: url('img/Slice 1@0.1x.png');
+    }
 
     .navbar-fixed-top .navbar-brand {
         font-size: 2em;
